@@ -1,0 +1,21 @@
+
+body{
+    font-family: 'Ysabeau', sans-serif;
+}
+h1{
+    font-size: 50px;
+
+}
+.website {
+    color: orange;
+}
+.class1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+.class1 img{
+    width: 100%;
+}
